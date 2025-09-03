@@ -17,7 +17,7 @@
     width:100px;
 }
 .logo{
-    background-image: url("images.png");
+    background-image: url("https://github.com/rachit766/projectclone/blob/main/images.png");
     background-size:cover;
     height:50px;
     width:100%;
@@ -225,3 +225,4 @@ ul a{
     padding-top: 5px;
 
 }
+
