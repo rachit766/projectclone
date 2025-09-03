@@ -117,7 +117,7 @@ span{
     font-weight:700;
 }
 .hero-section{
-    background-image:url("heropage.jpg");
+    background-image:url("https://github.com/rachit766/projectclone/blob/main/heropage.jpg");
     background-size:cover;
     height:400px;
     display:flex;
@@ -223,4 +223,5 @@ ul a{
 }
 .copyright {
     padding-top: 5px;
+
 }
